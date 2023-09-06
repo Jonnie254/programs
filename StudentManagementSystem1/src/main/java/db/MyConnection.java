@@ -5,8 +5,8 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class MyConnection {
-    private static final String username = "root";
-    private static final String password = "Homegyal_254";
+    private static final String username = "";
+    private static final String password = "";
     private static final String dataconn = "jdbc:mysql://localhost:3306/student_management";
     private static Connection conn = null;
 
